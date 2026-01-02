@@ -54,6 +54,7 @@ body{
 .content_box .list .list_item a:hover{
     padding: 20px;
     backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
     background: rgba(255,255,255,0.15);
     border-radius: 10px;
 }
